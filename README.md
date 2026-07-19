@@ -116,7 +116,7 @@ The user only asks a question. The AI agent automatically decides which tools to
 RepoSense-AI/
 │
 ├── notebooks/
-│   └── RepoSense_AI_Agent.ipynb
+│   └── RepoSense_AI.ipynb
 │
 ├── requirements.txt
 ├── .gitignore
